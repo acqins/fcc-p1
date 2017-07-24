@@ -1,0 +1,17 @@
+$blue: #a3d5d3;
+
+body {
+  background-color: $blue;  Margin-top:  60px
+}
+h1,h2{
+  
+}
+  
+.red{
+	background:#f00;
+}
+.tran{ background: none;}
+
+.white{ background: #ffffff;}
+
+
